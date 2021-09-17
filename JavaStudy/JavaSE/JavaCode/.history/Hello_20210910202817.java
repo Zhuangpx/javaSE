@@ -1,0 +1,16 @@
+/*
+ * @Autor: violet apricity (zpx)
+ * @Date: 2021-08-19 23:13:35
+ * @LastEditors: violet apricity (zpx)
+ * @LastEditTime: 2021-09-10 20:27:34
+ * @FilePath: \apricityd:\ALL_Project-DevelopTools\Forjava\Project\Hello.java
+ * @Description: Violet && Apricity:/ The warmth of the sun in the winter /
+ */
+public class Hello{
+    public static void main(String[] args){
+        int a=5;
+        System.out.println("1: " + a);
+        //啊啊哦
+        System.out.print("2 :" + a);
+    }
+}
