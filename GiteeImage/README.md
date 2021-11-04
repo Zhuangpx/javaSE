@@ -11,4 +11,4 @@
 
 将图片对标保存托管到gitee。
 
-这里是仓库地址。
+这里是仓库地址:https://gitee.com/Zhuangpx/zhuangpx-image/tree/master/javaSE
